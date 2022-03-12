@@ -4,7 +4,7 @@ In this Project I have tried to do face swapping based on face landmarks.
 ![alt text](./images/Im387_resize_.png)
 ![alt text](./images/Im386_resize_.png)
 ## Result
-![alt text](.result.jpg)
+![alt text](result.jpg)
 ### Steps:
   - Take two iamges
   -  Find landmark points of two images
